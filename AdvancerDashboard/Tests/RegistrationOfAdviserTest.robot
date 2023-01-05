@@ -19,6 +19,6 @@ Register new advisor
     [tags]    Advancer Dashboard Test - Test No 1
     RegisterAdviser.Complete registration form with new user (user)
     ...    ${new_user_to_register}
-    sleep    5s
+    sleep    3s
     RegisterAdviser.Submit registration and validate if success
     sleep  3s
